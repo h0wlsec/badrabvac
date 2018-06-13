@@ -10,6 +10,9 @@ For more indepth details, see this [article from SecureList](https://securelist.
 
 ## IOCs
 http://1dnscontrol[.]com/
+
 fbbdc39af1139aebba4da004475e8839 – install_flash_player.exe
+
 1d724f95c61f1055f0d02c2154bbccd3 – C:\Windows\infpub.dat
+
 b14d8faf7f0cbcfad051cefe5f39645f – C:\Windows\dispci.exe
