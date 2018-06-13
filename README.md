@@ -6,7 +6,6 @@ BadRabbit is a Petya/NotPetya  variant that came out in October 2017. Infections
 
 This vaccine :syringe: batch file creates files that an infection relied upon (`C:\windows\infpub.dat` and `C:\Windows\cscc.dat`) and disabled the ability for the virus to write to these files. It therefore stops the infection from continuing and prevents it from working on machines that had this vaccine.  
 
-
 For more indepth details, see this [article from SecureList](https://securelist.com/bad-rabbit-ransomware/82851/).
 
 ## IOCs
